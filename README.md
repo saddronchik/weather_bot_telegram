@@ -5,6 +5,7 @@
 Перечень комманд перед запуском бота:
 
 python -m pip install requests
+
 pip install -U aiogram
 
 После чего можно запустить файл main_weather_tg_bot.py
